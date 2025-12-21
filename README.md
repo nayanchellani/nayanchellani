@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer | AI & Automation Enthusiast
 
-I'm a BCA student (Class of '26) at Somaiya College, transitioning from building traditional web apps to **AI-native applications**. I don't just write code; I build products that solve actual workflow problems.
+I'm a BCA student (Batch '26) at Somaiya College, transitioning from building traditional web apps to **AI-native applications**. I don't just write code; I build products that solve actual workflow problems.
 
 ---
 
