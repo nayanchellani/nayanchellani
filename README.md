@@ -1,4 +1,4 @@
-# Hi, I'm Nayan Chellani. 👋
+# Hi, I'm Nayan Chellani! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 ### 🚀 Full Stack Engineer (MERN) | Exploring AI Agents
 I am a final-year BCA student (batch '26) at Somaiya College. I build secure, scalable web applications and am currently pivoting into **AI-native development**. I don't just write code; I document my journey and learn in public.
