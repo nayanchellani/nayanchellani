@@ -68,9 +68,8 @@ An AI-powered study companion focused on **interactive, adaptive learning** usin
 </p>
 
 <p align="center">
-  <img src="https://github.com/nayanchellani/nayanchellani/blob/output/github-contribution-grid-snake.svg" alt="snake" />
+  <img src="https://raw.githubusercontent.com/nayanchellani/nayanchellani/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
-
 ---
 
 ## 📫 Let’s Connect
