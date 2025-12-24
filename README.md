@@ -61,12 +61,8 @@ An AI-powered study companion focused on **interactive, adaptive learning** usin
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nayanchellani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Nayan's Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanchellani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nayanchellani&theme=tokyonight&hide_border=true" alt="Streak" />
-</p>
-
+**CONTRIBUTIONS::** 
 <p align="center">
   <img src="https://raw.githubusercontent.com/nayanchellani/nayanchellani/output/github-contribution-grid-snake.svg" alt="snake" width="100%" />
 </p>
