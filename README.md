@@ -56,11 +56,7 @@ An AI-powered study companion focused on **interactive, adaptive learning** usin
 
 ---
 
-## 📊 GitHub Analytics
 
-<p align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nayanchellani&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 **CONTRIBUTIONS::** 
 <p align="center">
