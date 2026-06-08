@@ -50,7 +50,7 @@ An AI-powered study companion focused on **interactive, adaptive learning** usin
 
 * **Features:** Agent-style workflows & Retrieval-Augmented Generation (RAG).
 * **Goal:** Providing personalized explanations and quizzes based on user data.
-* **Stack:** Python · LangChain · React
+* **Stack:** `React` · `Node.js` · `Express` · `MongoDB` · `Gemini AI` · `YouTube API` · `Serper API` · `Passport.js` · `JWT`
 
 🟡 **Status:** In Development
 
